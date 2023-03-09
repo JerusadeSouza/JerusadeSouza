@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil do JerusadeSouza 😁
+## Bem-vindo(a) ao perfil de Jerusa de Souza 😁
 
  <div>
    <a href="https://github.com/JerusadeSouza">
