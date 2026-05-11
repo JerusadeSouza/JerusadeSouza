@@ -36,6 +36,7 @@ Tenho experiência com projetos voltados para **qualidade de software** e també
 <p align="center">
   <img align="center" alt="Cypress" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cypressio/cypressio-original.svg" />
   <img align="center" alt="Selenium" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg" />
+  <img align="center" alt="JUnit" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/junit/junit-original.svg" />
 </p>
 
 ### Ferramentas
@@ -44,6 +45,8 @@ Tenho experiência com projetos voltados para **qualidade de software** e també
   <img align="center" alt="GitHub" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" />
   <img align="center" alt="Visual Studio Code" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" />
   <img align="center" alt="Swagger" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original.svg" />
+  <img align="center" alt="Maven" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/maven/maven-original.svg" />
+  <img align="center" alt="npm" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" />
 </p>
 
 ### Contato
@@ -59,7 +62,6 @@ Tenho experiência com projetos voltados para **qualidade de software** e també
 <p align="center">
   <img src="https://raw.githubusercontent.com/JerusadeSouza/JerusadeSouza/output/github-contribution-grid-snake.svg" alt="Animacao das contribuicoes" />
 </p>
-
 
 <p align="center">
   <a href="mailto:jerusa24souza@gmail.com">
