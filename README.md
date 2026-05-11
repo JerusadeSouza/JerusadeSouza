@@ -1,5 +1,24 @@
 ## Bem-vinda ao perfil de Jerusa de Souza
 
+Sou **Analista de Qualidade**, com foco em garantir a qualidade de aplicações por meio de **testes manuais, testes automatizados e validação de APIs**.
+
+Tenho experiência com projetos voltados para **qualidade de software** e também com desenvolvimento **front-end**, o que me permite olhar para o produto com atenção tanto ao comportamento técnico quanto à experiência do usuário. Atuo com validação de fluxos, testes funcionais, documentação de APIs e apoio à construção de soluções mais confiáveis.
+
+### Tecnologias e ferramentas
+- **Linguagens:** JavaScript, Java, HTML e CSS
+- **Frameworks e bibliotecas:** Node.js, Express e ReactJS
+- **Testes e automação:** Cypress, Selenium, JUnit, Mocha, Chai e Supertest
+- **Documentação e apoio:** Swagger / OpenAPI, Mochawesome e Dotenv
+- **Ferramentas de trabalho:** Git, GitHub, npm, Maven e Visual Studio Code
+
+### O que você vai encontrar por aqui
+- Projetos de automação de testes
+- Testes de API
+- Aplicações front-end responsivas
+- Estudos práticos com foco em qualidade, organização e evolução contínua
+
+
+
 <p align="center">
   <a href="https://github.com/JerusadeSouza">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JerusadeSouza&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estatisticas do GitHub de Jerusa" />
