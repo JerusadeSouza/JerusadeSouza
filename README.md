@@ -8,9 +8,15 @@ Tenho experiência com projetos voltados para **qualidade de software** e també
 - **Linguagens:** JavaScript, Java, HTML e CSS
   <p align="center">
   <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />
+  <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" />
   <img align="center" alt="HTML5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
   <img align="center" alt="CSS3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
+  <img align="center" alt="Node.js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" />
+  <img align="center" alt="Cypress" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cypressio/cypressio-original.svg" />
+  <img align="center" alt="Selenium" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg" />
+  <img align="center" alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" />
 </p>
+
 
 - **Frameworks e bibliotecas:** Node.js, Express e ReactJS
 - **Testes e automação:** Cypress, Selenium, JUnit, Mocha, Chai e Supertest
