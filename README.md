@@ -2,10 +2,16 @@
 
 Sou **Analista de Qualidade**, com foco em garantir a qualidade de aplicações por meio de **testes manuais, testes automatizados e validação de APIs**.
 
-Tenho experiência com projetos voltados para **qualidade de software** e também com desenvolvimento **front-end**, o que me permite olhar para o produto com atenção tanto ao comportamento técnico quanto à experiência do usuário. Atuo com validação de fluxos, testes funcionais, documentação de APIs e apoio à construção de soluções mais confiáveis.
+Tenho experiência com projetos voltados para **qualidade de software** e também conhecimento basico com desenvolvimento **front-end**, o que me permite olhar para o produto com atenção tanto ao comportamento técnico quanto à experiência do usuário. Atuo com validação de fluxos, testes funcionais, documentação de APIs e apoio à construção de soluções mais confiáveis.
 
 ### Tecnologias e ferramentas
 - **Linguagens:** JavaScript, Java, HTML e CSS
+  <p align="center">
+  <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />
+  <img align="center" alt="HTML5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
+  <img align="center" alt="CSS3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
+</p>
+
 - **Frameworks e bibliotecas:** Node.js, Express e ReactJS
 - **Testes e automação:** Cypress, Selenium, JUnit, Mocha, Chai e Supertest
 - **Documentação e apoio:** Swagger / OpenAPI, Mochawesome e Dotenv
@@ -30,11 +36,7 @@ Tenho experiência com projetos voltados para **qualidade de software** e també
   Desenvolvedora focada em front-end, criando interfaces organizadas, responsivas e com atencao aos detalhes.
 </p>
 
-<p align="center">
-  <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />
-  <img align="center" alt="HTML5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
-  <img align="center" alt="CSS3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
-</p>
+
 
 <p align="center">
   <a href="mailto:jerusa24souza@gmail.com">
