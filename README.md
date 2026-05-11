@@ -91,16 +91,3 @@ Tenho experiência com projetos voltados para **qualidade de software** e també
 <p align="center">
   <img src="https://raw.githubusercontent.com/JerusadeSouza/JerusadeSouza/output/github-contribution-grid-snake.svg" alt="Animacao das contribuicoes" />
 </p>
-
-<p align="center">
-  <a href="mailto:jerusa24souza@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  <a href="https://www.linkedin.com/in/jerusa-de-souza-45b328239/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/JerusadeSouza/JerusadeSouza/output/github-contribution-grid-snake.svg" alt="Animacao das contribuicoes" />
-</p>
